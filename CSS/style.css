@@ -1,0 +1,26 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+font-size: 30px;
+color: #33C7FF;
+}
+h2{
+font-size: 20px;
+color: rgb(140, 0, 255);
+}
+
+.yellow{
+font-size: 60px;
+}
+
+.navy{
+color: navy;
+}
+
+h1 span{
+color: rgb(75, 24, 24);
+}
+
+    
